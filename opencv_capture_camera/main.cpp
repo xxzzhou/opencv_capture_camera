@@ -262,8 +262,8 @@ int main(int argc, const char** argv)
 		t = t/10;     //一帧所需的时间
 		fps = 1.0 / t;
 		cout << fps << endl;
-		cout << "try" << endl;
-		/*printf("fps: %.2f\n", fps); 		*/
+		
+	    /*printf("fps: %.2f\n", fps); 		*/
 	}	
 }
 
